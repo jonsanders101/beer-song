@@ -1,4 +1,3 @@
-
 public class BeerSong {
 	public static void main(String args[]) {
 		int bottlesRemaining = 99;
@@ -13,4 +12,3 @@ public class BeerSong {
 System.out.println("There's only " + bottlesRemaining + " bottle of beer on the wall, there's only " + bottlesRemaining + " bottle of beer. You take it down and pass it around..." + "\n" + "...There's no more beer now so it's best you went home. Bye!");
 	}
 }
-
